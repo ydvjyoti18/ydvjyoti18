@@ -15,4 +15,4 @@ Welcome to my GitHub profile!
 - You can reach me via email at [ydv.jyoti18@gmail.com](mailto:ydv.jyoti18@gmail.com).
 - Connect with me on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/jyoti-jy-yadav/)
 
-Feel free to explore my repositories and connect with me to discuss exciting opportunities and projects. Let's build something great together!
+Feel free to explore my repositories and connect with me to discuss exciting opportunities and projects. Let's build something great together! 
